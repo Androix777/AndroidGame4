@@ -43,3 +43,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac047f05eb4ca7f41ab2b190134ef4ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spawnRate: 0.2
+  enemy: {fileID: 6724246573215827902, guid: a992f0fbaa35ed14699f661e2cc0c2d3, type: 3}
